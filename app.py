@@ -10,7 +10,7 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
 
 # huggingfacehub_api_token = os.environ["HUGGINGFACE_EDU"] # Store the API token in a .env file
-huggingfacehub_api_token = "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"
+huggingfacehub_api_token = "" #enter you huggingface API token here
 # Customize the layout
 st.set_page_config(page_title="DocQA", page_icon="🤖", layout="wide", )     
 st.markdown(f"""
