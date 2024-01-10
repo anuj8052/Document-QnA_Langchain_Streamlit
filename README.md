@@ -9,9 +9,9 @@ I have created an streamlit app using Lanchain, huggingface model's where you ca
 - .\venv\Scripts\activate   - for windows
 
 # install dependencies if require
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # how to run the app 
-streamlit run app.py
+ - streamlit run app.py
 
 
