@@ -2,7 +2,7 @@
 I have created an streamlit app using Lanchain, huggingface model's where you can add files like doc, pdf and text file ask question based on that documents
 
 # installation
-- create an virtual environment using this command
+## create an virtual environment using this command
 - cd path/to/your/project
 - python -m venv venv
 - source venv/bin/activate  - for macbook
